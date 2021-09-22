@@ -1,0 +1,25 @@
+C:\Users\My Computer\AppData\Local\Temporary Projects\VBDemos\bin\Debug\VBDemos.exe
+C:\Users\My Computer\AppData\Local\Temporary Projects\VBDemos\bin\Debug\VBDemos.pdb
+C:\Users\My Computer\AppData\Local\Temporary Projects\VBDemos\bin\Debug\VBDemos.xml
+C:\Users\My Computer\AppData\Local\Temporary Projects\VBDemos\obj\x86\Debug\VBDemos.SplashScreen.resources
+C:\Users\My Computer\AppData\Local\Temporary Projects\VBDemos\obj\x86\Debug\VBDemos.Resources.resources
+C:\Users\My Computer\AppData\Local\Temporary Projects\VBDemos\obj\x86\Debug\VBDemos.vbproj.GenerateResource.Cache
+C:\Users\My Computer\AppData\Local\Temporary Projects\VBDemos\obj\x86\Debug\VBDemos.exe
+C:\Users\My Computer\AppData\Local\Temporary Projects\VBDemos\obj\x86\Debug\VBDemos.xml
+C:\Users\My Computer\AppData\Local\Temporary Projects\VBDemos\obj\x86\Debug\VBDemos.pdb
+C:\Users\My Computer\AppData\Local\Temporary Projects\VBDemos\obj\x86\Debug\VBDemos.MainForm.resources
+C:\Users\My Computer\documents\visual studio 2010\Projects\VBDemos\VBDemos\obj\x86\Debug\VBDemos.vbproj.GenerateResource.Cache
+C:\Users\My Computer\documents\visual studio 2010\Projects\VBDemos\VBDemos\bin\Debug\AIVBD.exe
+C:\Users\My Computer\documents\visual studio 2010\Projects\VBDemos\VBDemos\bin\Debug\AIVBD.pdb
+C:\Users\My Computer\documents\visual studio 2010\Projects\VBDemos\VBDemos\bin\Debug\AIVBD.xml
+C:\Users\My Computer\documents\visual studio 2010\Projects\VBDemos\VBDemos\obj\x86\Debug\AIVBD.exe
+C:\Users\My Computer\documents\visual studio 2010\Projects\VBDemos\VBDemos\obj\x86\Debug\AIVBD.xml
+C:\Users\My Computer\documents\visual studio 2010\Projects\VBDemos\VBDemos\obj\x86\Debug\AIVBD.pdb
+C:\Users\My Computer\documents\visual studio 2010\Projects\VBDemos\VBDemos\obj\x86\Debug\VBDemos.AboutBox1.resources
+C:\Users\My Computer\documents\visual studio 2010\Projects\VBDemos\VBDemos\obj\x86\Debug\VBDemos.Calculator.resources
+C:\Users\My Computer\documents\visual studio 2010\Projects\VBDemos\VBDemos\obj\x86\Debug\VBDemos.UserLogin.resources
+C:\Users\My Computer\documents\visual studio 2010\Projects\VBDemos\VBDemos\obj\x86\Debug\VBDemos.MainForm.resources
+C:\Users\My Computer\documents\visual studio 2010\Projects\VBDemos\VBDemos\obj\x86\Debug\VBDemos.SlotMachine.resources
+C:\Users\My Computer\documents\visual studio 2010\Projects\VBDemos\VBDemos\obj\x86\Debug\VBDemos.SplashScreen.resources
+C:\Users\My Computer\documents\visual studio 2010\Projects\VBDemos\VBDemos\obj\x86\Debug\VBDemos.Resources.resources
+C:\Users\My Computer\documents\visual studio 2010\Projects\VBDemos\VBDemos\obj\x86\Debug\VBDemos.UserRegister.resources
