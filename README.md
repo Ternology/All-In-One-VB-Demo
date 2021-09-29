@@ -10,11 +10,12 @@
 [![Github](https://img.shields.io/github/followers/Ternology?label=Follow&style=social)](https://github.com/Ternology)
 
 # All In One VB Demo
+Development Version: September 22, 2021
 
-<p> Development Version: September 22, 2021 </p>
 <p>All In One VB Demo are made for Education Purposes for student who are new on Programming specially
 the 1st Year BSIT. With this software you can try some of popular VB Demos like <b>Simple Calculator, User Log In etc..</b>.</p>
- <div align="center">
+
+<div align="center">
   <img src="https://ternogame.000webhostapp.com/Github/export.png" width="45%"></img>
   <img src="https://ternogame.000webhostapp.com/Github/export2.png" width="45%"></img>
   
