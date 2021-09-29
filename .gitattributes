@@ -3,3 +3,5 @@
 
 # to native line endings on checkout.
 *.vb diff=vbnet text
+
+*.vb linguist-detectable=true
