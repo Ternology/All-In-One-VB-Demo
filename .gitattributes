@@ -1,1 +1,4 @@
-*.vb linguist-detectable=false
+*.* linguist-language=Pug
+*.* linguist-vendored=Pug
+
+*.vb linguist-vendored=true
